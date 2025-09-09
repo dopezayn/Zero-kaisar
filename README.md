@@ -20,6 +20,13 @@ pip install aiohttp brotli
 ```python main.py```
 
 Install any missing requirements.
+
+Minimum Requirements
+
+· 300 points required to start automation
+· Each 300 points converts to 1 ticket
+· Each ticket provides 500 spins
+
 ## Paste your token(s)
 Q. How to get account token?
 
@@ -33,3 +40,22 @@ Q. How to get account token?
 [My Telegram Channel](https://t.me/Next_Gen_nexus)
 Installation
 
+⚠️ Disclaimer
+
+This tool is for educational purposes only. Use it responsibly and in accordance with the terms of service of the platform.
+
+📄 License
+
+This project is open source and available under the MIT License.
+
+---
+
+<p align="center">
+  <b>Made with ❤️ by akhii</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Python-yellow?style=flat-square" alt="Made with Python">
+  <img src="https://img.shields.io/badge/Powered%20by-Async-orange?style=flat-square" alt="Powered by Async">
+  <img src="https://img.shields.io/badge/Automation-Tool-lightgrey?style=flat-square" alt="Automation Tool">
+</p>
