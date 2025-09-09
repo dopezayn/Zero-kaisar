@@ -2,7 +2,7 @@
 Automation tool
 # Commands
 
-```python zero.py```
+```python main.py```
 
 Install any missing requirements.
 ## Paste your token(s)
